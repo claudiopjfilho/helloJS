@@ -1,0 +1,15 @@
+{
+  "name": "hellojs",
+  "version": "1.0.0",
+  "description": "<h1 align = \"justify\"> EXERCÍCIOS EM JAVASCRIPT </h1>\r <p align = \"justify\">- Aprendendo os conceitos do JavaScript, function, array, operadores, node, var, let, const, for etc. </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-modules": "^1.0.1"
+  }
+}

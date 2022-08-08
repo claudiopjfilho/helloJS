@@ -1,0 +1,12 @@
+function rand({min = offscreenBuffering, max = 1000}){
+    const valor = Math.random() * (max - min) + min
+    return Math.floor(valor)
+}
+
+const obj = {max: 50, min: 40}
+console.log(rand(obj))
+
+console.log(rand({min: 970}))
+console.log(rand({max: 50, min: 40 }))
+
+
